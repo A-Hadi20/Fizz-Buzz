@@ -1,0 +1,40 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  h1{
+    color: rgb(255, 161, 37);
+    margin-top: 10%;
+    font-size: 50px;
+  }
+
+  input[type="number"] {
+    padding: 10px;
+    margin-top: 3%;
+    font-size: 25px;
+
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    margin-top: 3%;
+
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 40px;
+  }
